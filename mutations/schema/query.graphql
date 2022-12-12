@@ -1,0 +1,10 @@
+# Entry points of yours API!
+type Query {
+    userLoged: User
+    destakProduct: Product
+    megaSenaNumbers: [Int!]!
+    users: [User]
+    user(id: Int): User
+    profiles: [Profile]
+    profile(id: Int): Profile
+}
