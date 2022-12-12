@@ -1,0 +1,23 @@
+{
+  "name": "schemas-queries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon node index.js --ext js,graphql",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^15.8.0",
+    "graphql-import": "^1.0.2",
+    "graphql-tools": "^8.3.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

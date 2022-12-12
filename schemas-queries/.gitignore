@@ -1,0 +1,6 @@
+# files to ignore
+.DS_Store
+
+#Folters
+node_modules
+**/node_modules
