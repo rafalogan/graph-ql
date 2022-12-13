@@ -1,0 +1,9 @@
+# folcers
+\.idea
+\.vscode
+node_modules
+database/mysql
+
+# files
+.DS_Store
+.env
