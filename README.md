@@ -14,3 +14,8 @@ the original code of this chapter is basede is:
 
 the code that produces in charpiter "Mutatios" is based in the original code:
 [mutations github](https://graphql.org/learn/queries/#mutations)
+
+## Database
+
+the documentation of chapter:
+[Knex](https://knexjs.org/)
